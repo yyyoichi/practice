@@ -1,0 +1,78 @@
+body{
+    background-color:#171C1E;
+    margin: 30px;
+    color: #f0f8ff;
+    position: relative;
+    
+}
+
+.titlebox{
+    width: 100%;
+    height: 0;
+    padding-top: 50%;
+    background-image: url(../img/top.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+}
+
+.title{
+    position:absolute;
+    top: 10%;
+    left:8%
+    
+}
+
+.maintitle{
+    margin: 0;
+    font-family: 'Sawarabi Gothic', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    color: #171C1E;
+}
+
+.subtitle{
+    margin: 0;
+    text-align: auto;
+    font-size:30px;
+    padding-left: 5%;
+    font-family: 'Sawarabi Gothic', sans-serif;
+
+    color: #171C1E;
+}
+
+.shimabox{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin:5% 0;
+    background-color: #58697F;
+    }
+
+.shimaimg{
+    width: 40%;
+    height: 75%;
+    margin: auto 0;
+    
+    
+}
+.shima{
+    margin-left: 5%;
+    padding-right: 5%;
+}
+
+.shima2{
+    margin-right: 5%;
+    padding-left: 5%;
+}
+
+h1{
+    border-bottom: solid;
+    border-bottom-color: #9E8865;
+    font-family: 'Sawarabi Gothic', sans-serif;
+}
+p{
+    font-family: 'Kosugi Maru', sans-serif;
+
+}
